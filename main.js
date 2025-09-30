@@ -5,15 +5,15 @@
 
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: " Quando você está aprendendo algo novo, o que mais te ajuda?",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: " Ver imagens, esquemas, gráficos ou mapas.",
+                afirmacao: " Você aprende melhor quando consegue visualizar as informações em diagramas e imagens.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Ouvir explicações e conversar sobre o assunto.",
+                afirmacao: " Você valoriza ouvir boas explicações e trocar ideias para consolidar o conhecimento. ",
             }
         ]
     },
