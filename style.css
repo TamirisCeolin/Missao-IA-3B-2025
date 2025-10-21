@@ -1,10 +1,15 @@
 :root {
-    --cor-fundo: linear-gradient(to red,green);
+    --cor-fundo: 
     --cor-principal: #0B0D20;
     --cor-secundaria: #212333;
     --cor-destaque: #2BDEFD;
     --cor-texto: #D7F9FF;
 }
+
+body{
+background-image:linear-gradient(to red,green);
+}
+
 
 body {
     background-color: var(--cor-fundo);
