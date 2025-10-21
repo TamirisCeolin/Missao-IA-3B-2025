@@ -110,7 +110,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Se fosse possível ...";
+    caixaPerguntas.textContent = "Se fosse possível traduzir sua forma de aprender em palavras, diríamos que...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = " ";
 }
